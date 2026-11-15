@@ -1,0 +1,487 @@
+{
+  "canvasSnapToGrid": false,
+  "recordCompletionBehavior": "highlight",
+  "editorShortcuts": [
+    {
+      "id": "undo",
+      "value": "Mod+Z"
+    },
+    {
+      "id": "redo",
+      "value": "Shift+Mod+Z"
+    },
+    {
+      "id": "setParagraph",
+      "value": "Mod+Alt+0"
+    },
+    {
+      "id": "toggleHeading1",
+      "value": "Mod+Alt+1"
+    },
+    {
+      "id": "toggleHeading2",
+      "value": "Mod+Alt+2"
+    },
+    {
+      "id": "toggleHeading3",
+      "value": "Mod+Alt+3"
+    },
+    {
+      "id": "toggleHeading4",
+      "value": "Mod+Alt+4"
+    },
+    {
+      "id": "toggleHeading5",
+      "value": "Mod+Alt+5"
+    },
+    {
+      "id": "toggleHeading6",
+      "value": "Mod+Alt+6"
+    },
+    {
+      "id": "openSearch",
+      "value": "Mod+F"
+    },
+    {
+      "id": "openSlashCommand",
+      "value": "Mod+/"
+    },
+    {
+      "id": "toggleOutline",
+      "value": "Shift+Mod+O"
+    },
+    {
+      "id": "collapseAllHeadings",
+      "value": "Mod+Alt+ArrowUp"
+    },
+    {
+      "id": "expandAllHeadings",
+      "value": "Mod+Alt+ArrowDown"
+    },
+    {
+      "id": "toggleBold",
+      "value": "Mod+B"
+    },
+    {
+      "id": "toggleItalic",
+      "value": "Mod+I"
+    },
+    {
+      "id": "toggleStrike",
+      "value": "Shift+Mod+S"
+    },
+    {
+      "id": "toggleUnderline",
+      "value": "Mod+U"
+    },
+    {
+      "id": "toggleInlineCode",
+      "value": "Mod+E"
+    },
+    {
+      "id": "toggleHighlight",
+      "value": "Shift+Mod+H"
+    },
+    {
+      "id": "openLinkInput",
+      "value": "Mod+K"
+    },
+    {
+      "id": "toggleBlockquote",
+      "value": "Shift+Mod+B"
+    },
+    {
+      "id": "toggleBulletList",
+      "value": "Shift+Mod+8"
+    },
+    {
+      "id": "toggleOrderedList",
+      "value": "Shift+Mod+7"
+    },
+    {
+      "id": "toggleTaskList",
+      "value": "Shift+Mod+9"
+    },
+    {
+      "id": "toggleCodeBlock",
+      "value": "Mod+Alt+C"
+    },
+    {
+      "id": "openAiMenu",
+      "value": "Mod+J"
+    },
+    {
+      "id": "aiContinue",
+      "value": "Shift+Mod+J"
+    },
+    {
+      "id": "aiPolish",
+      "value": ""
+    },
+    {
+      "id": "aiConcise",
+      "value": ""
+    },
+    {
+      "id": "aiExpand",
+      "value": ""
+    },
+    {
+      "id": "aiTranslate",
+      "value": ""
+    },
+    {
+      "id": "acceptAiSuggestion",
+      "value": "Mod+Enter"
+    },
+    {
+      "id": "rejectAiSuggestion",
+      "value": "Escape"
+    },
+    {
+      "id": "abortAiGeneration",
+      "value": "Mod+."
+    },
+    {
+      "id": "insertTable",
+      "value": "Mod+Alt+T"
+    },
+    {
+      "id": "addColumnBefore",
+      "value": ""
+    },
+    {
+      "id": "addColumnAfter",
+      "value": ""
+    },
+    {
+      "id": "addRowBefore",
+      "value": ""
+    },
+    {
+      "id": "addRowAfter",
+      "value": ""
+    },
+    {
+      "id": "deleteColumn",
+      "value": ""
+    },
+    {
+      "id": "deleteRow",
+      "value": ""
+    },
+    {
+      "id": "deleteTable",
+      "value": ""
+    },
+    {
+      "id": "alignLeft",
+      "value": "Shift+Mod+L"
+    },
+    {
+      "id": "alignCenter",
+      "value": "Shift+Mod+E"
+    },
+    {
+      "id": "alignRight",
+      "value": "Shift+Mod+R"
+    },
+    {
+      "id": "insertImage",
+      "value": "Shift+Mod+I"
+    },
+    {
+      "id": "insertInlineMath",
+      "value": "Mod+Alt+M"
+    },
+    {
+      "id": "insertBlockMath",
+      "value": "Shift+Mod+Alt+M"
+    },
+    {
+      "id": "insertMermaid",
+      "value": "Mod+Alt+D"
+    },
+    {
+      "id": "insertHorizontalRule",
+      "value": "Mod+Alt+-"
+    }
+  ],
+  "recordTextSize": "xs",
+  "textToSpeechMode": "auto",
+  "giteaInstanceType": "gitea.com",
+  "outlinePlacement": "editor",
+  "editorViewMode": "visual",
+  "gitlabCustomUrl": "",
+  "language": "简体中文",
+  "outlinePosition": "right",
+  "editorSourceWrap": true,
+  "recordSaveTargetMode": "current",
+  "canvasWheelBehavior": "zoom",
+  "speechToTextMode": "auto",
+  "editorLineHeight": "comfortable",
+  "rerankingModel": "",
+  "giteaCustomUrl": "",
+  "showMobileEditorToolbar": true,
+  "imageMethodModel": "",
+  "customThemeColors": {
+    "dark": {
+      "accent": null,
+      "accentForeground": null,
+      "background": null,
+      "border": null,
+      "card": null,
+      "cardForeground": null,
+      "foreground": null,
+      "muted": null,
+      "mutedForeground": null,
+      "primary": null,
+      "primaryForeground": null,
+      "secondary": null,
+      "secondaryForeground": null,
+      "shadow": null,
+      "third": null,
+      "thirdForeground": null
+    },
+    "light": {
+      "accent": null,
+      "accentForeground": null,
+      "background": null,
+      "border": null,
+      "card": null,
+      "cardForeground": null,
+      "foreground": null,
+      "muted": null,
+      "mutedForeground": null,
+      "primary": null,
+      "primaryForeground": null,
+      "secondary": null,
+      "secondaryForeground": null,
+      "shadow": null,
+      "third": null,
+      "thirdForeground": null
+    }
+  },
+  "audioModel": "",
+  "placeholderModel": "",
+  "canvasGridGap": 20,
+  "fileManagerTextSize": "sm",
+  "commitModel": "note-gen-chat",
+  "showEditorStats": true,
+  "templateList": [
+    {
+      "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
+      "id": "0",
+      "range": "all",
+      "status": true,
+      "title": "笔记"
+    },
+    {
+      "content": "最近一周的记录整理成一篇周报，将每条记录形成一句总结，每条不超过50字。",
+      "id": "1",
+      "range": "week",
+      "status": true,
+      "title": "周报"
+    }
+  ],
+  "githubCustomImageRepo": "",
+  "promptList": [
+    {
+      "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
+      "id": "0",
+      "isDefault": true,
+      "title": "写作助手"
+    }
+  ],
+  "showEditorUndoRedo": true,
+  "primaryModel": "note-gen-chat",
+  "canvasGridStyle": "dots",
+  "embeddingModel": "note-gen-embedding",
+  "recordViewMode": "list",
+  "recommendedSkillsCache": {
+    "content": {
+      "schemaVersion": 1,
+      "skills": [
+        {
+          "author": "op7418",
+          "description": {
+            "en": "Polish Chinese articles by removing filler, repetition, and formulaic phrasing while preserving meaning and voice.",
+            "zh": "清理中文文章中的套话、重复和模板化表达，保留原意与作者语气。"
+          },
+          "id": "humanizer-zh",
+          "name": {
+            "en": "Natural Chinese Editing",
+            "zh": "中文自然润色"
+          },
+          "sourceUrl": "https://github.com/op7418/Humanizer-zh/tree/f4518a8eab97b8bfebc66a89d34320a89bef6930"
+        },
+        {
+          "author": "Anthropic",
+          "description": {
+            "en": "Develop proposals, guides, and technical documents through context gathering, structured drafting, and revision.",
+            "zh": "通过补充背景、梳理结构和逐节修改，协作完成方案、说明和技术文档。"
+          },
+          "id": "doc-coauthoring",
+          "name": {
+            "en": "Document Coauthoring",
+            "zh": "文档共创"
+          },
+          "sourceUrl": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/doc-coauthoring"
+        },
+        {
+          "author": "Anthropic",
+          "description": {
+            "en": "Read, edit, merge, split, and create PDFs, with form filling, OCR, and page previews. Requires a desktop runtime environment.",
+            "zh": "读取、编辑、合并、拆分和创建 PDF，支持表单填写、OCR 与页面预览；需桌面运行环境。"
+          },
+          "id": "pdf",
+          "name": {
+            "en": "PDF Documents",
+            "zh": "PDF 文档处理"
+          },
+          "sourceUrl": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/pdf"
+        },
+        {
+          "author": "Anthropic",
+          "description": {
+            "en": "Create, read, and edit Word documents, work with comments and tracked changes, and convert to PDF for layout review. Requires a desktop runtime environment.",
+            "zh": "创建、读取和编辑 Word 文档，处理批注与修订，并转换为 PDF 检查版式；需桌面运行环境。"
+          },
+          "id": "docx",
+          "name": {
+            "en": "Word Documents",
+            "zh": "Word 文档处理"
+          },
+          "sourceUrl": "https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/docx"
+        },
+        {
+          "author": "Affaan Mustafa / ECC",
+          "description": {
+            "en": "Turn notes, transcripts, and research into articles with clear outlines, grounded evidence, and a consistent author voice.",
+            "zh": "把笔记、转录稿和研究素材整理成文章，完善提纲、论据与段落节奏，并参考示例保持作者语气。"
+          },
+          "id": "article-writing",
+          "name": {
+            "en": "Long-form Article Writing",
+            "zh": "中文长文写作"
+          },
+          "sourceUrl": "https://github.com/affaan-m/ECC/tree/f3904009440af24f00617343910ee89714df8be3/docs/zh-CN/skills/article-writing"
+        },
+        {
+          "author": "Softaworks",
+          "description": {
+            "en": "Structure emails, status updates, and meeting communications for the audience, with clear purpose and next steps.",
+            "zh": "整理邮件、工作汇报和会议沟通，按读者背景调整结构、重点与表达。"
+          },
+          "id": "professional-communication",
+          "name": {
+            "en": "Professional Communication",
+            "zh": "职场沟通写作"
+          },
+          "sourceUrl": "https://github.com/softaworks/agent-toolkit/tree/3027f20f3181758385a1bb8c022d4041dfb4de84/skills/professional-communication"
+        },
+        {
+          "author": "Composio",
+          "description": {
+            "en": "Review communication, questioning, and listening patterns in existing meeting transcripts, with examples and improvement suggestions.",
+            "zh": "分析已有会议转写中的表达、提问和倾听方式，结合原文提出沟通改进建议。"
+          },
+          "id": "meeting-insights-analyzer",
+          "name": {
+            "en": "Meeting Communication Review",
+            "zh": "会议沟通复盘"
+          },
+          "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/be2a406907dbc61b73e6827ded415c96139d13a2/meeting-insights-analyzer"
+        },
+        {
+          "author": "Corey Haines",
+          "description": {
+            "en": "Write product descriptions, page headlines, and calls to action based on audience needs and product context.",
+            "zh": "根据目标读者和产品资料撰写产品介绍、页面标题与行动文案，突出具体价值。"
+          },
+          "id": "copywriting",
+          "name": {
+            "en": "Marketing Copywriting",
+            "zh": "营销文案创作"
+          },
+          "sourceUrl": "https://github.com/coreyhaines31/marketingskills/tree/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting"
+        }
+      ]
+    },
+    "versionCode": 101
+  },
+  "shortcuts": [
+    {
+      "key": "openWindow",
+      "value": "CommandOrControl+Shift+W"
+    },
+    {
+      "key": "screenshotRecord",
+      "value": "CommandOrControl+Shift+S"
+    },
+    {
+      "key": "quickRecordText",
+      "value": "CommandOrControl+Shift+T"
+    }
+  ],
+  "editorModel": "",
+  "fixedRecordTagId": null,
+  "showSourceLineNumbers": true,
+  "recordToolbarConfig": [
+    {
+      "enabled": true,
+      "id": "text",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "recording",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "scan",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "image",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "link",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "file",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "todo",
+      "order": 6
+    }
+  ],
+  "agentSystemPromptExtension": "",
+  "canvasGridVisible": true,
+  "completionModel": "note-gen-chat",
+  "canvasInsertBehavior": "select",
+  "sttModel": "note-gen-free-note-gen-stt",
+  "autoUpdate": true,
+  "enableImageRecognition": true,
+  "markDescModel": "note-gen-chat",
+  "editorContentWidth": "full",
+  "recordSortMode": "newest",
+  "enableOutline": false,
+  "canvasDefaultZoom": 1,
+  "canvasManagerViewMode": "grid",
+  "codeTheme": "github",
+  "canvasManagerSortMode": "updated",
+  "previewTheme": "github",
+  "canvasMinimapVisible": true,
+  "jsdelivr": true,
+  "gitlabInstanceType": "gitlab.com",
+  "darkMode": "system"
+}
